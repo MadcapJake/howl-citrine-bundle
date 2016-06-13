@@ -6,7 +6,7 @@ This is a [Citrine](http://citrine-lang.org) mode for the Howl editor. It featur
 
 ## Thanks
 
-To Gabor de Mooij (@gabordemooij) for providing this cool language.
+To [Gabor de Mooij](https://github.com/gabordemooij) for providing this cool language.
 
 ## License
 
